@@ -1,5 +1,6 @@
 ﻿using ExercisesCS.SequentialStructure;
 using ExercisesCS.SequentialStructure.Exercise11;
+using ExercisesCS.WhileStructure;
 
 // var exercise1 = new Exercise1();
 // exercise1.ExecutionExercise();
@@ -40,5 +41,14 @@ using ExercisesCS.SequentialStructure.Exercise11;
 // var exercise13 = new Exercise13();
 // exercise13.ExecutionExercise();
 
-var exercise14 = new Exercise14();
-exercise14.ExecutionExercise();
+// var exercise14 = new Exercise14();
+// exercise14.ExecutionExercise();
+
+// var exercise15 = new Exercise15();
+// exercise15.ExecutionExercise();
+
+// var exercise16 = new Exercise16();
+// exercise16.ExecutionExercise();
+
+var exercise17 = new Exercise17();
+exercise17.ExecutionExercise();
